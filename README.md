@@ -8,3 +8,9 @@ This project fine tunes the Faster_RCNN_Resnet50 model from object detection mod
  
 ## Test
 ![](test/individualImage.png)
+![](test/individualImage1.png)
+![](test/individualImage2.png)
+![](test/individualImage3.png)
+![](test/individualImage4.png)
+![](test/individualImage5.png)
+![](test/individualImage6.png)
